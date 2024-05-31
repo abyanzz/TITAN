@@ -17,4 +17,9 @@ wget -O titan2.sh https://raw.githubusercontent.com/abyanzz/TITAN/main/titan2.sh
 
 wget -O titan2.sh https://raw.githubusercontent.com/abyanzz/TITAN/main/titan2.sh && sudo chmod 777 titan2.sh && ./titan2.sh
 
+**TITAN3 - FULL AUTO**
+
+// Linux Ubuntu 22.04 system //
+
+wget -O titanAUTO.sh https://raw.githubusercontent.com/abyanzz/TITAN/main/titanAUTO.sh && sudo chmod 777 titanAUTO.sh && ./titanAUTO.sh
 
