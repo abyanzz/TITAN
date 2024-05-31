@@ -3,4 +3,10 @@ PRIVATE TITAN NETWORK
 
 **TITAN2**
 
-wget -O titandua.sh https://raw.githubusercontent.com/yoakeboy/airdrop-titan/main/titandua.sh && chmod +x titandua.sh && ./titandua.sh
+wget -O titan2.sh https://raw.githubusercontent.com/abyanzz/TITAN/main/titan2.sh && chmod +x titan2.sh && ./titandua.sh
+
+// Linux Ubuntu 22.04 system //
+
+wget -O titan2.sh https://raw.githubusercontent.com/abyanzz/TITAN/main/titan2.sh && sudo chmod 777 titan2.sh && ./titandua.sh
+
+
